@@ -4,7 +4,7 @@ Python >=3.6.0
 
 Network Security Dataset Used: CICIDS2017
 
-If you use the above code for your research, please cite it as follows:
+If you use the above technique for your research, kindly cite it as follows:
 
 Plain text format:
 
