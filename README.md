@@ -1,3 +1,11 @@
+In a Heterogeneous Feature Selection Ensemble (HFSE) multiple AI selectors are chosen to be a part of this ensemble as the name implies. These feature selectors in this ensemble vote for the best features using a ranking score. The feature that receives the highest votes is considered the best while the feature with the lowest votes is the least significant. Using a variety of AI models for selecting features is advantageous because it controls the variance, and reduces the likelihood of poor feature selection.
+
+
+![hfse_fig](https://github.com/ulya-sabeel/HFSE-for-CICIDS2017-Dataset/assets/78443098/09d8a458-49da-4132-863b-332daf68b4a2)
+
+
+
+
 Prerequisites:
 
 Python >=3.6.0
